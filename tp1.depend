@@ -1,0 +1,105 @@
+# depslib dependency file v1.0
+1684345861 source:c:\utn programación\2do cuatrimestre\laboratorio 2\parcial 1\tp1\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<ctime>
+	"locale.h"
+	"rlutil.h"
+	"clasefecha.h"
+	"clasemusico.h"
+	"clasegenero.h"
+	"claseArchivoMusico.h"
+	"claseArchivoGenero.h"
+	"funcionesGlobales.h"
+	"reportes.h"
+	"menus.h"
+
+1683218675 c:\utn programación\2do cuatrimestre\laboratorio 2\parcial 1\tp1\fecha.h
+
+1683143999 c:\utn programación\2do cuatrimestre\laboratorio 2\parcial 1\tp1\musico.h
+
+1682703305 c:\utn programación\2do cuatrimestre\laboratorio 2\parcial 1\tp1\cargarcadena.h
+
+1683900473 c:\utn programación\2do cuatrimestre\laboratorio 2\parcial 1\tp1\funciones.h
+
+1682595572 c:\utn programación\2do cuatrimestre\laboratorio 2\parcial 1\tp1\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1684109562 c:\utn programación\2do cuatrimestre\laboratorio 2\parcial 1\tp1\menus.h
+
+1683553376 c:\utn programación\2do cuatrimestre\laboratorio 2\parcial 1\tp1\clasefecha.h
+
+1684417688 c:\utn programación\2do cuatrimestre\laboratorio 2\parcial 1\tp1\clasemusico.h
+
+1684344371 c:\utn programación\2do cuatrimestre\laboratorio 2\parcial 1\tp1\clasegenero.h
+
+1683900473 c:\utn programación\2do cuatrimestre\laboratorio 2\parcial 1\tp1\funciones2.h
+
+1683902013 c:\utn programación\2do cuatrimestre\laboratorio 2\parcial 1\tp1\funciones3.h
+
+1684418450 c:\utn programación\2do cuatrimestre\laboratorio 2\parcial 1\tp1\reportes.h
+
+1683553956 source:c:\users\navim\desktop\tp lab2\tp1\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<ctime>
+	"locale.h"
+	"rlutil.h"
+	"clasefecha.h"
+	"clasemusico.h"
+	"clasegenero.h"
+	"funciones.h"
+	"funciones2.h"
+	"funciones3.h"
+	"reportes.h"
+	"menus.h"
+
+1682595572 c:\users\navim\desktop\tp lab2\tp1\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1683553376 c:\users\navim\desktop\tp lab2\tp1\clasefecha.h
+
+1683555484 c:\users\navim\desktop\tp lab2\tp1\clasemusico.h
+
+1683555484 c:\users\navim\desktop\tp lab2\tp1\clasegenero.h
+
+1683309466 c:\users\navim\desktop\tp lab2\tp1\funciones.h
+
+1683555484 c:\users\navim\desktop\tp lab2\tp1\funciones2.h
+
+1683566232 c:\users\navim\desktop\tp lab2\tp1\funciones3.h
+
+1683567060 c:\users\navim\desktop\tp lab2\tp1\reportes.h
+
+1683565890 c:\users\navim\desktop\tp lab2\tp1\menus.h
+
+1684108655 c:\utn programación\2do cuatrimestre\laboratorio 2\parcial 1\tp1\clasearchivomusico.h
+
+1684109607 c:\utn programación\2do cuatrimestre\laboratorio 2\parcial 1\tp1\clasearchivogenero.h
+
+1684345861 c:\utn programación\2do cuatrimestre\laboratorio 2\parcial 1\tp1\funcionesglobales.h
+
